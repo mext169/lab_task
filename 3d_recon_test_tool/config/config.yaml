@@ -1,0 +1,20 @@
+  %YAML:1.0
+
+  # txt输出
+  txtOutPut: 1
+  # pangolin输出显示
+  pangolinOutPut: 0
+
+  # Udp-server ip
+  serverIP: "127.0.0.1"
+  #serverIP: "192.168.3.4"
+  # portId
+  portID: 20000
+
+  # udp buff size
+  buffSize: 1024
+
+  # origin经度纬度和高度
+  lat: 39.95583
+  lon: 116.3111
+  height: 4003.3665
